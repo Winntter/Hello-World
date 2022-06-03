@@ -1,2 +1,3 @@
 # Ola Mundo!
- First versionament Git!
+ Hello World!
+ First versionament Git! Created training skills on Lesson class
